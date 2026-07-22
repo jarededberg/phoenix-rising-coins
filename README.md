@@ -75,7 +75,3 @@ The `_next` hidden field in `contact.html` points to this site's live `thanks.ht
 ### Social media
 
 Social links are intentionally not included on the site right now. The CSS for a `.social-icons` footer block still exists in `css/style.css` (just unused) if/when Instagram or Facebook links get added back in.
-
-### Legal note
-
-Arizona (and the City of Phoenix) may require registration or a permit for buying precious metals/secondhand goods from the public. This isn't legal advice — worth confirming exact requirements with the city clerk's office or a local business attorney before actively buying coins from the public.
